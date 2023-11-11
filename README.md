@@ -13,7 +13,7 @@ My name is Khanh Linh. As a final-year student at Business Analytics major of Ha
 ### My Repositories
 
 <a href="https://github.com/khlinh2512/Predict_Customer_Segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=RFM-Analysis&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=Predict_Customer_Segmentation&theme=merko" />
 </a>
 <a href="https://github.com/khlinh2512/RFM-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=RFM-Analysis&theme=merko" />
