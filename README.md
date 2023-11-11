@@ -15,12 +15,13 @@ My name is Khanh Linh. As a final-year student at Business Analytics major of Ha
 <a href="https://github.com/khlinh2512/Predict_Customer_Segmentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=Predict_Customer_Segmentation&theme=merko" />
 </a>
-<a href="https://github.com/khlinh2512/RFM-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=RFM-Analysis&theme=merko" />
-</a>
 <a href="https://github.com/khlinh2512/BusinessAnalytics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=BusinessAnalytics&theme=radical" />
 </a>
+<a href="https://github.com/khlinh2512/RFM-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khlinh2512&repo=RFM-Analysis&theme=merko" />
+</a>
+
 <!--
 **khlinh2512/khlinh2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
